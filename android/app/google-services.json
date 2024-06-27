@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233689895619",
+    "project_id": "thrash-threads",
+    "storage_bucket": "thrash-threads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233689895619:android:b4f82d993d9b5e144ac876",
+        "android_client_info": {
+          "package_name": "com.example.thrash_threads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyrVzQIq-g6dmvM56PkKNT9C0N1npQfDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
